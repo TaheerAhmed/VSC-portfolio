@@ -37,12 +37,13 @@ Open your browser and navigate to http://localhost:5173/ to see your portfolio i
 Update GitHub Contributions
 
 To display your GitHub contributions, edit the Github Graph component located at src/components/sections/About.tsx. Replace the username prop in the GithubGraph component with your GitHub username:
-
+```
 <GithubGraph
-  username="your-github-username"
+  username="your-github-username"\\change this line 
   blockMargin={2}
   colorPalette={["#ebedf0", "#a3e2a1", "#72d780", "#47b55d", "#2f8a3e"]}
 />
+```
 
 This will fetch and display your GitHub activity. ￼
 
