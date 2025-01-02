@@ -1,4 +1,4 @@
-# 🌟 Vite + React Portfolio Template
+# 🌟 VS Code Portfolio Template
 
 Welcome to the **VS Code Portfolio**! This is a sleek and modern portfolio template built with [Vite](https://vitejs.dev/), [React](https://reactjs.org/), and [Tailwind CSS](https://tailwindcss.com/). It's designed to help you showcase your projects and skills in style. 🎨🚀
 
