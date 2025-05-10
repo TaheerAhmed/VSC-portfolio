@@ -75,15 +75,15 @@ export default function About() {
       </motion.div>
 
       <motion.div variants={item}>
-        <div className="flex items-center gap-2 mb-4">
+        {/* <div className="flex items-center gap-2 mb-4">
           <Github className="w-5 h-5" />
           <h2 className="text-xl font-semibold dark:text-[#d4d4d4]">GitHub Activity</h2>
-        </div>
-        <GithubGraph
+        </div> */}
+        {/* <GithubGraph
             username="levelsio"
             blockMargin={2}
             colorPallete={["#ebedf0", "#a3e2a1", "#72d780", "#47b55d", "#2f8a3e"]}
-          />
+          /> */}
       </motion.div>
 
       <motion.div variants={item}>
